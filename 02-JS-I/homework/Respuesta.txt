@@ -1,0 +1,27 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables
+Strings
+Funciones (argumentos, return)
+Declaraciones if
+Valores booleanos (true, false)
+
+
+Variables
+Una variable es como una cajita que se crea en el programa para despues poder ponerle algun dato
+
+Strings
+Es un tipo de dato que se forma por uno mas caracteres, como si fuera una oracion
+
+Funciones (argumentos, return)
+
+Una funcion es un conjunto de tareas que se le asigna al programa para que haga lo que nosotros queremos. 
+Los argumentos serian las cajitas en las que se va a poner la informacion con la que vamos a trabajar.
+El return seria lo que quiero que me muestre como resultado la funcion.
+
+Declaraciones if
+Se le hace una pregunta al sistema, que solo puede responderse como verdadero o falso, para que si es verdadero haga algo y si es falso haga otra cosa
+
+Valores booleanos
+Son valores que solo pueden tener 2 valores, si o no, verdadero o falso, encendido o apagado
+
