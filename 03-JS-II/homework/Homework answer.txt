@@ -1,0 +1,24 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo 
+estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero 
+en tu comprensión.
+
+for
+
+&&, ||, !
+
+El for nos sirve para repetir una tarea una cantidad definida de veces, sin tener que copiar el texto todas
+esas veces
+
+Podemos usar estos conectores &&, || para preguntar dos preguntas logicas (verdadero o falso) a la vez,
+ el && es el "Y" en español, y sirve para preguntar si las dos cosas que estamos preguntando se cumplen,
+ en tal caso seria verdadero, si no se cumplen las dos o alguna de ellas, es falso.
+Por ej, podria preguntar "Estoy escribiendo en un .txt" && (Y) "Estoy usando un teclado" y como ambas son ciertas, 
+el resultado seria verdadero, en cambio si cambio la primera pregunta por: "Estoy escribiendo en un .doc", como eso es
+falso, el resultado final seria falso tambien.
+El || es el "O" en español, y es verdadero cuando alguno o los dos se cumplen, y falso solo cuando los dos no se cumplen.
+"El pollito es amarillo" || (o) "El pollito es un ave", seria verdadero por que los dos son verdaderos, si cambio uno solo
+va a seguir siendo verdadero porque uno de ellos sigue siendo verdadero, la unica forma de que falso es que cambie ambos
+por :"El pollito es violeta" || "El pollito es mamifero".
+Ademas de preguntar en positivo, "esto es un texto?", podemos preguntar en negativo, "esto no es un sonido?", ese NO o 
+negacion se escribe con el !.
+
