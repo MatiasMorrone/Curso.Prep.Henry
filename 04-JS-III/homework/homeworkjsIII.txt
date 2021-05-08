@@ -1,0 +1,4 @@
+Un arrreglo es un contenedor de informacion que puede almacenar todo tipo de variables, otros arreglos, funciones, etc.
+Cada uno de los datos contenidos en el arreglo toma un lugar dentro del mismo al cual le corresponde un valor numerico,
+comenzando en 0 para el primero y asi suscesivamente de uno en uno.
+Son matrices de informacion.
