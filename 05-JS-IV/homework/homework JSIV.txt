@@ -1,0 +1,27 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo 
+estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu 
+comprensión.
+
+Objetos
+Propiedades
+Métodos
+Bucle for…in
+Notación de puntos vs notación de corchetes
+
+Objetos: Son contenedores de informacion al cual, ademas de darle un valor de contenido (value), se le puede asignar un
+nombre que define que es lo que esta conteniendo (key), por ej: Edad:13, donde el valor contenido es 13 y el nombre 
+asignado para identificar a que corresponde dicho valor es Edad. Los objetos a diferencia de un arreglo, contiene 
+informacion sobre una sola cosa, como por ej los datos personales de una persona.
+
+Propiedades: Es la asociacion entre el valor del contenido y el nombre de ese contenido.
+
+Metodos: Son funciones dentro de los objetos
+
+Bucle for in: Como en los objetos los indices no son numericos (como en un arrey) , sino que estan dados por el key, 
+no se puede usar el for como se usaba en los arreglos, solo con una variable que vaya creciendo numericamente, entonces 
+para poder iterar dentro de un objeto, JavaScript cuenta con el bucle for in.
+
+Notacion de puntos vs notacion de corchetes: Ambas se usan para llamar alguna propiedad dentro del objeto, si usamos 
+notacion de puntos es para llamar un key que sabemos por cierto que se encuentra dentro del objeto, en cuanto a la
+de corchetes si ponemos el nombre dentro del corchete entre comillas, funciona de igual manera, sino, identifica a 
+una variable que puede o no estar en el objeto.
