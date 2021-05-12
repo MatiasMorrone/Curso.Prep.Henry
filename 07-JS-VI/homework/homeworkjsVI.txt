@@ -1,0 +1,4 @@
+callback
+
+Una funcion tiene argumentos para poder utilizarlos y realizar la tarea que esta tiene que a hacer, 
+uno puede poner una funcion en esos argumentos y llamar dentro de una funcion a otra funcion.
