@@ -1,0 +1,9 @@
+
+
+#thirdDiv {height: 600px;width: 500px ;padding: 50px;
+;border: rgb(0, 0, 0);border-width: 5px;background-color: darkgrey;text-align: center;} 
+#spanId {margin: 50px;font-size: 18px;}
+body {background-image:url('https://previews.123rf.com/images/pakhnyushchyy/pakhnyushchyy1402/pakhnyushchyy140200326/25829501-fondo-gris-dise%C3%B1o-de-textura-de-fondo.jpg');
+text-align: center;}
+head{text-align: center;}
+.DivClass{text-align: center;}
